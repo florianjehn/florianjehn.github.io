@@ -1,7 +1,6 @@
 ---
 layout: page
-
-
+title: 
 ---
 
 ### Researcher trying to understand the world and my thoughts
