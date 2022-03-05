@@ -15,7 +15,7 @@ We know from the archaeological record that most of the cities in the region wer
 
 Other research links these movements to a drought that led to widespread famines (Weiss, 1982), which was likely caused by a cooling of the mediterranean sea (Drake, 2012). This decreased evaporation, which led to reduced precipitation, resulted in a drought and famine. The sea itself cooled because of a large volcanic eruption of Mount Hekla in Iceland (Yurko, 1999), that likely produced a volcanic autumn that reduced temperature globally and clouded the sky (this is also the link to the problems of the civilizations in India and China). 
 
-![Sea People Routes](https://github.com/florianjehn/florianjehn.github.io/blob/master/assets/img/sea_people.png){: .mx-auto.d-block :}
+![Sea People Routes](florianjehn.github.io/assets/img/sea_people.png){: .mx-auto.d-block :}
 
 Figure 1:  Map of the Sea People invasions in the Aegean Sea and Eastern Mediterranean at the end of the Late Bronze Age (blue arrows). Some of the major cities impacted by the raids are denoted with historical dates. Inland invasions are represented by purple arrows. (Source: Kaniewski et al., 2011) 
 
@@ -23,7 +23,7 @@ But this climatic approach does not explain everything. The civilizations in thi
 
 All those factors draw a very complicated picture of the Bronze Age collapse (Figure 2). There is not a single defining cause for the collapse. Every factor on its own would likely not have been enough to topple several Bronze Age empires. However, their interaction led to a quick end of the Bronze Age, which had been relatively stable for centuries or even millennia. 
 
-![Arrow Diagram](https://github.com/florianjehn/florianjehn.github.io/blob/master/assets/img/arrow_diagram.png){: .mx-auto.d-block :}
+![Arrow Diagram](florianjehn.github.io/assets/img/arrow_diagram.png){: .mx-auto.d-block :}
 
 Figure 2: Interaction of the different factors that led to the late Bronze Age collapse (own figure). 
 
