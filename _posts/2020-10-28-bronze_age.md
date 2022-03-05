@@ -23,7 +23,7 @@ But this climatic approach does not explain everything. The civilizations in thi
 
 All those factors draw a very complicated picture of the Bronze Age collapse (Figure 2). There is not a single defining cause for the collapse. Every factor on its own would likely not have been enough to topple several Bronze Age empires. However, their interaction led to a quick end of the Bronze Age, which had been relatively stable for centuries or even millennia. 
 
-![Sea People Routes](https://github.com/florianjehn/florianjehn.github.io/blob/master/assets/img/arrow_diagram.png){: .mx-auto.d-block :}
+![Arrow Diagram](https://github.com/florianjehn/florianjehn.github.io/blob/master/assets/img/arrow_diagram.png){: .mx-auto.d-block :}
 
 Figure 2: Interaction of the different factors that led to the late Bronze Age collapse (own figure). 
 

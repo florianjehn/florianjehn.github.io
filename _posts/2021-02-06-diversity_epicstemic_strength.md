@@ -2,28 +2,28 @@
 layout: post
 title: In diversity lies epistemic strength
 subtitle: You need diverse perspectives to get closer to truth
-tags: [Epistemic], [Feminism], [Rationality]
+tags: [Empiricism], [Feminism], [Rationality]
 comments: true
 readtime: true
 ---
 
-Summary
+#Summary
 
 Diversity is important. Not only inherently, but instrumentally as well. Based on ideas from the book “Why Trust Science?” by science historian Naomi Oreskes this post argues for increased diversity as a chance to produce more reliable knowledge. The main argument is that a more diverse community has more diverse perspectives on any given topic. This leads to more assumptions being challenged, which in turn increases the likelihood of being closer to the truth. 
 
-Varieties of Empiricism
+#Varieties of Empiricism
 
 How are we able to make progress in the realm of ideas and science? Think for example of the idea of continental drift. Right now we are pretty sure that this theory is correct, but how did we end up with this conclusion? The most straightforward way to tackle this question is to simply look for evidence for your hypothesis. For example, you can cut out the shapes of all continents and puzzle them together to form Pangea. While this gives the hints that your theory might be correct, falsification of your hypothesis might be right around the corner. Maybe we might find some evidence that the Atlantic Ocean does not experience seafloor spreading, which would be a strong argument against continental drift. 
 
 So, is falsification the way to find truth? Not really, as falsification only really tries to tell you what is not true and also runs into the problem of underdetermination. This means that you never test only a single hypothesis, but also all other theories your hypothesis stands on as well. To stay with our example: you can measure if the Atlantic Ocean experiences seafloor spreading with radio telescopes. But, when you are using those radio telescopes you also assume that they are working correctly and that your understanding of electromagnetism is correct. Therefore, if our experiments show that there is no seafloor spreading, this might mean that continental drift is wrong, but it might also be just the case that our radio telescope is broken or electromagnetism does not work as we think in this case. There is no way to tell for sure, as we can never rule out all the possible ways our experiment might have gone wrong or what part of the natural world we did not understand correctly. 
 
-Science as a Team Effort
+#Science as a Team Effort
 
 We see that it is not really possible to prove nor disprove a theory using a single “scientific method”. But maybe we are looking at the wrong part of science to understand how we make progress? The theories we looked at so far (Positivism, Falsification, Underdetermination) are focused on finding a single scientific method. However, everyone that ever engaged with science knows that there are a plethora of different methods and that the key part of science is it being a team effort. Therefore, our focus should be less on individual scientists and more on the scientific community as a whole. Or to be more specific, we should focus on the thought collectives in different fields and how they work. If we do this, we can see that science is quite different from field to field and the tools and techniques used differ widely. 
 
 We can also see that most scientists are not really trying to prove or disprove major theories, but are more similar to puzzle solvers who try to understand a tiny part of our world better. Only if those puzzles cannot be solved in the current paradigm of thinking, major scientific shifts occur. However, during those paradigm shifts not only theories change, but also values and beliefs, which makes it hard to compare paradigms to each other. Nevertheless, it seems that the paradigm shifts of the past somehow moved us in the direction of scientific progress. Still, this leaves open the question of how we can trust science and its findings if we have neither a single scientific method nor a quantifiable way to compare our current understanding of the world to earlier paradigms? 
 
-Feminism as a way forward
+#Feminism as a way forward
 
 The solution to this problem might come from an unexpected direction: Feminism. Feminist philosophers like Sandra Harding or Helen Longino have been asking similar questions for decades: how can we trust science if so many of its theories are based on prejudice? How can we trust science if so many of its scientists are biased, especially in regard to gender and race? For example, the underrepresentation of women in scientific studies. The answer here is that objectivity is not something that a single person has, but that objectivity is a social achievement of a diverse community. This is based on the idea that the assumptions and perspectives we have are strongly influenced by the life that we have lived. For example, a person growing up in a slum, always struggling for money, will have different beliefs about how the world works than a person that lives a life of luxury. But many of the assumptions we have remain hidden even to ourselves if they are not challenged. 
 
@@ -33,7 +33,7 @@ Objectivity as it is understood here is a continuum between being more or less o
 
 It is difficult to give concrete evidence for the positive effect of diversity in perspectives in science, as we have no objective measure for “good science”. However, there are large scientific organisations like the IPCC that have acknowledged that they need scientists with a diverse set of backgrounds to create reliable science that does not leave out the perspectives of often underrepresented groups. In addition, there is lots of research about gender diversity and team performance in companies and much of it points into the direction that more diverse companies and teams are also more profitable, creative and productive (For example, take a look at this meta-analysis, but beware the man of one study and rather take a look at a random sample on Google Scholar for the search “gender diversity and team performance”). As we learned earlier in this text, this is not conclusive evidence (it never is), but we should not discard it, especially as we have a mechanism, in the form of diversity of perspectives, that explains the findings. 
 
-Conclusion
+#Conclusion
 
 The ideas presented here are certainly important for science, but they are also applicable to every other group that wants to make sure they are closer to the truth. This highlights the importance of voices that raise awareness on the issue of diversity and propose efforts to make our movement more welcoming. The closer we come to the ideal of having diversity of perspectives, the more certain we can be that the consensus we reach is a good map of reality.
 
