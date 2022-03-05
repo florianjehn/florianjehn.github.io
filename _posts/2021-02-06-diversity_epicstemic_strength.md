@@ -35,11 +35,11 @@ It is difficult to give concrete evidence for the positive effect of diversity i
 
 Conclusion
 
-The ideas presented here are certainly important for science, but they are also applicable to every other group that wants to make sure they are closer to the truth. This highlights the importance of voices that raise awareness on the issue of diversity in the EA community and propose efforts to make our movement more welcoming. The closer we come to the ideal of having diversity of perspectives, the more certain we can be that the consensus we reach is a good map of reality.
+The ideas presented here are certainly important for science, but they are also applicable to every other group that wants to make sure they are closer to the truth. This highlights the importance of voices that raise awareness on the issue of diversity and propose efforts to make our movement more welcoming. The closer we come to the ideal of having diversity of perspectives, the more certain we can be that the consensus we reach is a good map of reality.
 
  
  
 
 Thanks to Florian Zeidler, Jan Wittenbecher, Birte Spekker, Jonathan Michel, Ekaterina Ilin, Magdalena Wache and Luise Wolf for helping me improve this post with valuable feedback :)
 
-If you want to look deeper into topics mentioned in this post, the main things to look for are (in the order they appear in the post): Positivism (Auguste Comte, Vienna Circle), Falsification (Karl Popper), Duhem-Quine Thesis/Underdetermination (Willard Van Orman Quine), Thought Collectives (Ludwig Fleck), Scientific Revolutions/Paradigm Change (Thomas Kuhn), Feminist Philosophy of Science (Sandra Harding, Helen Longino). Or simply take a look at “Why Trust Science?”, the main argument is laid out in the first ~ 150 pages. The rest is interesting case studies to prove her points and some remarks made by other scientists about how to increase trust in science.
+If you want to look deeper into topics mentioned in this post, the main things to look for are (in the order they appear in the post): Positivism (Auguste Comte, Vienna Circle), Falsification (Karl Popper), Duhem-Quine Thesis/Underdetermination (Willard Van Orman Quine), Thought Collectives (Ludwig Fleck), Scientific Revolutions/Paradigm Change (Thomas Kuhn), Feminist Philosophy of Science (Sandra Harding, Helen Longino). Or simply take a look at [“Why Trust Science?”](https://www.goodreads.com/book/show/44526005-why-trust-science), the main argument is laid out in the first ~ 150 pages. The rest is interesting case studies to prove her points and some remarks made by other scientists about how to increase trust in science.
