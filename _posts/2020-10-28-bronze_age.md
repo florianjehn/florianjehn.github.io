@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The end of the Bronze Age as an example of a sudden collapse of civilization
-subtitle: Understanding my inner censor
+subtitle: Why did the Bronze Age end with a bang?
 tags: [History], [Existential Risk], [Collapse]
 comments: true
 readtime: true
