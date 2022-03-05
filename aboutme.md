@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Florian Ulrich Jehn
 subtitle: Researcher trying to understand the world and my thoughts
 ---
 
