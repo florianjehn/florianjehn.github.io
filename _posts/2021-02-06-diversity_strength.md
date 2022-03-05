@@ -7,8 +7,6 @@ comments: true
 readtime: true
 ---
 
-# Summary
-
 Diversity is important. Not only inherently, but instrumentally as well. Based on ideas from the book [“Why Trust Science?”](https://www.goodreads.com/book/show/44526005-why-trust-science) by science historian Naomi Oreskes this post argues for increased diversity as a chance to produce more reliable knowledge. The main argument is that a more diverse community has more diverse perspectives on any given topic. This leads to more assumptions being challenged, which in turn increases the likelihood of being closer to the truth. 
 
 # Varieties of Empiricism
