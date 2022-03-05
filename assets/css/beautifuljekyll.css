@@ -32,16 +32,16 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 1.5rem;
+  font-size: 2.25rem;
 }
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.875rem;
 }
 h3 {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 h4 {
-  font-size: 1.0rem;
+  font-size: 1.125rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
@@ -461,7 +461,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.875rem;
+  font-size: 1.3rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
