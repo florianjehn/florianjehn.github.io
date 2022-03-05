@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Florian Ulrich Jehn
+subtitle: Researcher trying to understand the world and my thoughts
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hi, I'm Florian :)
 
-What else do you need?
+I see myself as an agreeable and curious person, who likes to explore the world in a playful manner. My main interests are climate change, existential risks, feminism, history, forecasting and food security. 
 
-### My story
+After doing a bachelor, master and doctor in environmental science I am currently trying to explore how I can work on more impactful topics as those I have covered until now. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
