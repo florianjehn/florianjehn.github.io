@@ -1,1 +1,1 @@
-# Removed old stuff
+# Personal blog for Florian Jehn
