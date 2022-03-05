@@ -4,7 +4,8 @@ layout: page
 ---
 
 Hi, I'm Florian
-I use this place here to try to understand the world and my thoughts
+
+I use this place here to try to understand the world and my thoughts.
 
 I see myself as an agreeable and curious person, who likes to explore the world in a playful manner. My main interests are climate change, existential risks, feminism, history, forecasting and food security. 
 
