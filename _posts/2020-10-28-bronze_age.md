@@ -15,7 +15,7 @@ We know from the archaeological record that most of the cities in the region wer
 
 Other research links these movements to a drought that led to widespread famines (Weiss, 1982), which was likely caused by a cooling of the mediterranean sea (Drake, 2012). This decreased evaporation, which led to reduced precipitation, resulted in a drought and famine. The sea itself cooled because of a large volcanic eruption of Mount Hekla in Iceland (Yurko, 1999), that likely produced a volcanic autumn that reduced temperature globally and clouded the sky (this is also the link to the problems of the civilizations in India and China). 
 
-![Sea People Routes](/assets/img/sea_people.png){: .mx-auto.d-block :}
+![Sea People Routes](/assets/img/sea_people.png)
 
 Figure 1:  Map of the Sea People invasions in the Aegean Sea and Eastern Mediterranean at the end of the Late Bronze Age (blue arrows). Some of the major cities impacted by the raids are denoted with historical dates. Inland invasions are represented by purple arrows. (Source: Kaniewski et al., 2011) 
 
