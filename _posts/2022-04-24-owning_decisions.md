@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nobody can tell you what you should be doing with your life
-subtitle: In the end, you have to make your own decisions
+subtitle: In the end you have to make your own decisions (and that's fine)
 tags: [Personal, Career]
 comments: true
 readtime: true
