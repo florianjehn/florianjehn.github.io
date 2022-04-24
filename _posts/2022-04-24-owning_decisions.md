@@ -7,7 +7,7 @@ comments: true
 readtime: true
 ---
 
-Recently, I listened to a episode of the [80k podcast](https://80000hours.org/podcast/episodes/80k-after-hours-michelle-habiba-advice-for-younger-selves/), an interview with Habiba Islam and Michelle Hutchinson. One topic they talked about was typical things they discuss during their career advice calls. A recurring theme is that people have a bunch of options and they want 80k to tell them which one is the best. Habiba explained that this usually ends up with 80k explaning them that they have to make their own decisions. They are the only person who knows all the details of their own life, 80k can only give advice.
+Recently, I listened to a episode of the [80k podcast](https://80000hours.org/podcast/episodes/80k-after-hours-michelle-habiba-advice-for-younger-selves/), an interview with Habiba Islam and Michelle Hutchinson. One topic they talked about was typical things they discuss during their career advice calls. A recurring theme is that people have a bunch of options and they want 80k to tell them which one is the best. Habiba mentioned that this usually ends up with 80k explaning them that they have to make their own decisions. They are the only person who knows all the details of their own life, 80k can only give advice.
 
 This reminded me of myself and how I approached decisions in my life. I think basically since I had to make decisions about my own life and especially after I came across effective altruism I have been looking for someone else for telling me what I should do with my career (or my life even). Because after all how should I even make a decision? Yeah I can come up with a bunch of ideas and even make plans, but making a decision is just so hard. Could please somebody else do this?
 
