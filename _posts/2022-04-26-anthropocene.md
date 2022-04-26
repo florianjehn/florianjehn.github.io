@@ -51,11 +51,11 @@ The main ways to get energy are using combustion, hydraulic/wind/tides, geotherm
 
 The model is described in detail in Frank et al. (2018) and in plain language in Frank (2018). It is run until an equilibrium is found for the planet and its civilization (which can also mean the extinction of the civilization, when the equilibrium population is 0). The results of the model mainly depend on the following parameters:
 
-    environmental sensitivity: environmental recovery rate normalized to the population growth rate, e.g. how badly the planet reacts to a growing civilization. The higher the sensitivity, the higher the environmental degradation per additional population.
-    forcing: resource consumption detriment normalized to the environmental recovery rate, e.g. how strong a forcing the population is creating by consuming resources. The higher the forcing, the more likely is a collapse, as the planet's regenerative capabilities are overwhelmed by environmental degradation.
-    foresight: fraction of environmental degradation at which point resource transition occurs, e.g. how quickly does the civilization shift from high impact to low impact energy. The earlier a shift occurs, the more likely it is to succeed.
-    speed: degree of environmental degradation that occurs during a resource transition period, e.g. how quickly the transition occurs once it has started. The higher the speed of the transition of polluting to sustainable energy sources, the more likely it is successful.
-    fragility: Degree of nonlinear environmental degradation normalized to the environmental recovery rate, e.g. how easily do you get self-reinforcing feedback loops. The higher the fragility, the earlier the transition of polluting to sustainable energy sources has to happen to even have a chance of succeeding.
+* environmental sensitivity: environmental recovery rate normalized to the population growth rate, e.g. how badly the planet reacts to a growing civilization. The higher the sensitivity, the higher the environmental degradation per additional population.
+* forcing: resource consumption detriment normalized to the environmental recovery rate, e.g. how strong a forcing the population is creating by consuming resources. The higher the forcing, the more likely is a collapse, as the planet's regenerative capabilities are overwhelmed by environmental degradation.
+* foresight: fraction of environmental degradation at which point resource transition occurs, e.g. how quickly does the civilization shift from high impact to low impact energy. The earlier a shift occurs, the more likely it is to succeed.
+* speed: degree of environmental degradation that occurs during a resource transition period, e.g. how quickly the transition occurs once it has started. The higher the speed of the transition of polluting to sustainable energy sources, the more likely it is successful.
+* fragility: Degree of nonlinear environmental degradation normalized to the environmental recovery rate, e.g. how easily do you get self-reinforcing feedback loops. The higher the fragility, the earlier the transition of polluting to sustainable energy sources has to happen to even have a chance of succeeding.
 
  
 
@@ -69,9 +69,9 @@ Figure 1: Possible trajectories of civilization-planet interactions in exo-civil
 
 This simple model shows us three main trajectories:
 
-    Die-off (A): a stable equilibrium exists. However, the civilization grows quickly to a population larger than the planet can sustain, this results in a massive die-off. Once the population has decreased to a level the planet can sustain, it becomes stable.
-    Sustainability (B): a stable equilibrium exists and can be reached monotonically. The population grows, and the planet changes so that there is a smooth transition when it comes to energy use, which results in equilibrium between the planet and the civilization, without large disruptions.
-    Collapse (C, D): the only equilibrium is the one with zero population. After a quick growth of population the civilization simply collapses. This can also happen in cases where the civilization switches to sustainable energies, but does so when it is already too late.
+* Die-off (A): a stable equilibrium exists. However, the civilization grows quickly to a population larger than the planet can sustain, this results in a massive die-off. Once the population has decreased to a level the planet can sustain, it becomes stable.
+* Sustainability (B): a stable equilibrium exists and can be reached monotonically. The population grows, and the planet changes so that there is a smooth transition when it comes to energy use, which results in equilibrium between the planet and the civilization, without large disruptions.
+* Collapse (C, D): the only equilibrium is the one with zero population. After a quick growth of population the civilization simply collapses. This can also happen in cases where the civilization switches to sustainable energies, but does so when it is already too late.
 
 Foresight and fragility seem to be especially important parameters for a successful civilization. If you wait too long to switch your energy source or if you have an especially fragile planetary system, you have a problem and it becomes very likely that a collapse will occur. 
 
