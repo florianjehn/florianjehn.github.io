@@ -14,3 +14,5 @@ After doing a bachelor, master and doctor in environmental science I am currentl
 If I am not engaged in one of the topics above, it is likely that you find me doing sport, meditation, reading, going for a walk or enjoying time with the wonderful people in my life.
 
 See you around :)
+
+P.S. you can find an updated version of my academic CV [here](https://florianjehn.github.io/assets/misc/Florian_Jehn_Academic_CV_June_22.pdf).
