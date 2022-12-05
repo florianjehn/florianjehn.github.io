@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Against the dominance of gap-spotting in research
-subtitle: A book review 
+subtitle: A review of “Constructing Research Questions: Doing Interesting Research”
 tags: [Science, Research Questions]
 comments: true
 readtime: true
@@ -14,7 +14,7 @@ It usually does not happen that I read through a non-fiction book in two days, b
 This book tells its stories somewhat in parallel, but there are four main topics the authors are exploring: 
 
 * How can we classify research questions?
-* Almost all researchers use “gap-spotting”, a process that only creates boring research question
+* Almost all researchers use “gap-spotting”, a process that only creates boring research questions
 * How can we find more relevant research questions? Challenge assumptions instead!
 * Why do scientists use gap-spotting so much, even though it produces more boring research?
 
@@ -25,7 +25,7 @@ I think the classification of research questions is the least interesting part o
 Alright, let’s go through this step by step. 
 
 
-# Almost all researchers use “gap-spotting”, a process that only creates boring research question
+# Almost all researchers use “gap-spotting”, a process that only creates boring research questions
 
 The main claim this story starts with is that we have more research now than ever, but interesting and influential papers have gotten less, not more. This has to have a reason, and the authors propose that researchers today are mainly relying on gap-spotting to find research questions. Gap-spotting means that the researchers start their papers by identifying a gap somewhere in the scientific literature, and then justify the existence of their study by claiming that it fills the gap they found. Alvesson and Sandberg back this up with an empirical study. They collected a sample of over 100 papers and scrutinized them for their justification of the research question. Almost all of them used gap-spotting! They also found that gap-spotting comes in different flavors: 
 
