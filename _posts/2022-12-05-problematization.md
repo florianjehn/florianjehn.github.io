@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Against the dominance of gap-spotting in research
-subtitle: A review of “Constructing Research Questions\: Doing Interesting Research”
+subtitle: A review of “Constructing Research Questions” 
 tags: [Science, Research Questions]
 comments: true
 readtime: true
