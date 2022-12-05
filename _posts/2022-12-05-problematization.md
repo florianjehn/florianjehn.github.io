@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Against the dominance of gap-spotting in research: a book review 
+title: Against the dominance of gap-spotting in research
+subtitle: a book review 
 tags: [Science, Research Questions]
 comments: true
 readtime: true
 ---
-_Almost all researchers use “gap-spotting”, a process that only creates boring research question_
+
+*Almost all researchers use “gap-spotting”, a process that only creates boring research question*
 
 It usually does not happen that I read through a non-fiction book in two days, but I could not put this one down. In the recent months, I noticed that one thing that I have to improve to become a better researcher is to come up with more and better research questions. However, when I looked  around, I could not find many resources about this that offer more than uninspired check lists. By chance, I stumbled on “Constructing Research Questions: Doing Interesting Research” by Mats Alvesson and Jörgen Sandberg, and I am glad I did. 
 
