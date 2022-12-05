@@ -74,6 +74,8 @@ Once you completed the first 5 steps, you have to check where your collection of
 
 If you challenge too few assumptions, people will discard it as obvious, but if you challenge too many, people will feel like you are proving too much and will just see it as absurd. You want the sweet spot where people read your alternative assumptions and their first reaction is: “That’s interesting!”.
 
+## Example
+
 Now let’s look at a short example of this. It isn’t fully developed, as this would be a big academic project in its own right, but is merely meant to exemplify the process:
 
 1. Identifying a domain of literature
