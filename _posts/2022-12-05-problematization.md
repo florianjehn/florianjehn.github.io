@@ -7,7 +7,7 @@ comments: true
 readtime: true
 ---
 
-*Almost all researchers use “gap-spotting”, a process that only creates boring research question*
+*Almost all researchers use “gap-spotting”, a process that only creates boring research questions*
 
 It usually does not happen that I read through a non-fiction book in two days, but I could not put this one down. In the recent months, I noticed that one thing that I have to improve to become a better researcher is to come up with more and better research questions. However, when I looked  around, I could not find many resources about this that offer more than uninspired check lists. By chance, I stumbled on “Constructing Research Questions: Doing Interesting Research” by Mats Alvesson and Jörgen Sandberg, and I am glad I did. 
 
