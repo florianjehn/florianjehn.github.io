@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Against the dominance of gap-spotting in research
-subtitle: a book review 
+subtitle: A book review 
 tags: [Science, Research Questions]
 comments: true
 readtime: true
