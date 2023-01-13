@@ -3,8 +3,6 @@ layout: post
 title: Finding your havingness level
 subtitle: Can there be too much of a good thing?
 tags: [Mental Health, Personal]
-thumbnail-img: /assets/img/havingness.png
-share-img: /assets/img/havingness.png
 comments: true
 readtime: true
 ---
