@@ -15,6 +15,9 @@ author: Florian U. Jehn
 
 navbar-links:
   About Me: "aboutme"
+  
+# put blag in sub category
+paginate_path: "/blog/page:num/" 
 
   
 #  Resources:
