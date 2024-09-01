@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Unknown Knowns
+title: Florian U. Jehn
 
 # Your name to show in the footer
 author: Florian U. Jehn
@@ -14,7 +14,7 @@ author: Florian U. Jehn
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+ 
   
 # put blag in sub category
 paginate_path: "/blog/page:num/" 
@@ -72,7 +72,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website contains a collection of thoughts by Florian Jehn
+rss-description: This website contains a collection of works by Florian Ulrich Jehn
 
 # --- General options --- #
 
