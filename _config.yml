@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Florian U. Jehn
+title: Florian Ulrich Jehn
 
 # Your name to show in the footer
-author: Florian U. Jehn
+author: Florian Ulrich Jehn
 
 # --- List of links in the navigation bar --- #
 
@@ -65,7 +65,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: fediscience.org/@florianjehn
 #  ORCID: your ORCID ID
   google-scholar: citations?user=OoD5gYoAAAAJ&hl
 #  discord: invite/invite_code or users/userid 
