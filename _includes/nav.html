@@ -30,6 +30,12 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      <li class="nav-item">
+        <a class="nav-link" id="lang-toggle" href="#" role="button" title="Switch language / Sprache wechseln">
+          <span class="fas fa-language" aria-hidden="true"></span>
+          <span id="lang-toggle-text">Deutsch</span>
+        </a>
+      </li>
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">

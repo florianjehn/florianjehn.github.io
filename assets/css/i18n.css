@@ -1,0 +1,9 @@
+/* Language toggle: show only the content matching the active language.
+   The active language is stored in the `data-lang` attribute on <html>. */
+html[data-lang="en"] .i18n-de { display: none !important; }
+html[data-lang="de"] .i18n-en { display: none !important; }
+
+/* Small globe icon next to the language toggle label */
+#lang-toggle .fa-language {
+  margin-right: 0.3em;
+}
